@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1074648720737-f3054u70ch7b06fdcho9j9tlq69fu3r1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://squacker-c6126.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1074648720737</string>
+    <string name="google_api_key" translatable="false">AIzaSyBOGl-51NY7pj4mE34VYpU6EtwBMp4DgVs</string>
+    <string name="google_app_id" translatable="false">1:1074648720737:android:00a60142da379650</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBOGl-51NY7pj4mE34VYpU6EtwBMp4DgVs</string>
+    <string name="google_storage_bucket" translatable="false">squacker-c6126.appspot.com</string>
+    <string name="project_id" translatable="false">squacker-c6126</string>
+</resources>

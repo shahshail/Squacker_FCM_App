@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1074648720737",
+    "firebase_url": "https://squacker-c6126.firebaseio.com",
+    "project_id": "squacker-c6126",
+    "storage_bucket": "squacker-c6126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074648720737:android:00a60142da379650",
+        "android_client_info": {
+          "package_name": "com.geekathlon.shailshah.squacker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074648720737-f3054u70ch7b06fdcho9j9tlq69fu3r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGl-51NY7pj4mE34VYpU6EtwBMp4DgVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
